@@ -122,6 +122,7 @@ Observed key security events:
 
 
 ### SMB Access Attempt
+<img width="3024" height="4032" alt="IMG_4136" src="https://github.com/user-attachments/assets/50203b81-2c59-4bd7-b779-d2cb787be7e4" />
 
 
 
