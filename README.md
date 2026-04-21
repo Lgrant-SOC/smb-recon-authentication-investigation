@@ -115,12 +115,15 @@ Observed key security events:
 ## 📸 Screenshots
 
 ### Nmap Scan Results
+[Technical Evidence](evidence1.png)
+<img width="3024" height="4032" alt="IMG_4135" src="https://github.com/user-attachments/assets/0136d285-29fa-4d84-9174-3ac8558e0896" />
 
-(Add your first screenshot here)
+
+
 
 ### SMB Access Attempt
 
-(Add smbclient screenshot here)
+
 
 ### Windows Event Logs (4625, 4624, 5379)
 
