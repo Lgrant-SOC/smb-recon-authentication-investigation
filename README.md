@@ -122,13 +122,16 @@ Observed key security events:
 
 
 ### SMB Access Attempt
+[Technical Evidence](evidence2.png)
 <img width="3024" height="4032" alt="IMG_4136" src="https://github.com/user-attachments/assets/50203b81-2c59-4bd7-b779-d2cb787be7e4" />
 
 
 
 ### Windows Event Logs (4625, 4624, 5379)
+[Technical Evidence](evidence3.png)
+<img width="3024" height="4032" alt="IMG_4138" src="https://github.com/user-attachments/assets/6c25f4d6-b81b-46f7-a282-092abdc401ed" />
+<img width="3024" height="4032" alt="IMG_4137" src="https://github.com/user-attachments/assets/def09d40-6efc-4c79-b2bd-3148bd3235d7" />
 
-(Add your Event Viewer screenshot here)
 
 ---
 
